@@ -1,0 +1,13 @@
+Sites:
+
+https://www.derivative-calculator.net/
+https://www.onlinegdb.com/
+
+Extensões VS CODE:
+
+C/C++ Compile Run
+C/C++ (Da microsoft)
+Code Runner
+
+Testar os códigos ja utilizados antes para ver se tá batendo com os mesmos resultados do moodle.
+
