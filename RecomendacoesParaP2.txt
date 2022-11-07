@@ -14,3 +14,5 @@ Testar os códigos ja utilizados antes para ver se tá batendo com os mesmos res
 Colocar Salvamento automático no VS Code, mudar códigos e ver se a saída mudou também.
 
 Salvar extensões recomendadas quando eu colocar um programa em python no Vs code.
+
+Caso os computadores da udesc nao estejam com o numpy baixado, use o gdb online (A primeira questão de Ajuste de Curvas usa o numpy, teste ela antes)
