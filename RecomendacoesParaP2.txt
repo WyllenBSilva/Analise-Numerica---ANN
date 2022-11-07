@@ -1,0 +1,16 @@
+Sites:
+
+https://www.onlinegdb.com/
+
+Extensões VS CODE:
+
+Code Runner
+Python (Microsoft)
+Pylance(Microsoft)
+
+
+Testar os códigos ja utilizados antes para ver se tá batendo com os mesmos resultados do moodle.
+
+Colocar Salvamento automático no VS Code, mudar códigos e ver se a saída mudou também.
+
+Salvar extensões recomendadas quando eu colocar um programa em python no Vs code.
