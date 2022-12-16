@@ -3,6 +3,7 @@ Sites:
 https://www.onlinegdb.com/
 https://www.wolframalpha.com/input?i=solve+p%27%28t%29+%3D+k+*+%281+-+p%28t%29%29%2C+p%280%29+%3D+0.00159
 https://colab.research.google.com/ (logar com gmail)
+office.com (se der merda no pendrive, tem os códigos no office)
 
 Obs: Deixe o Google Collab aberto, pois pode vir a ser uma ajuda em questões como a questão 4. Sempre que rodar no vscode, rodar também no collab para testar se o resultado é o mesmo.
 
